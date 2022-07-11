@@ -6,10 +6,10 @@ const MainHeader = () => {
             <nav>
                 <ul>
                     <li>
-                        <NavLink activeClassName={classes.active} to="/products">Products</NavLink>
+                        <NavLink activeClassName={classes.active} to="/welcome">Welcome</NavLink>
                     </li>
                     <li>
-                        <NavLink activeClassName={classes.active} to="/welcome">Welcome</NavLink>
+                        <NavLink activeClassName={classes.active} to="/products">Products</NavLink>
                     </li>
                 </ul>
             </nav>
