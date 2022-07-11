@@ -4,6 +4,7 @@ import Welcome from './Pages/Welcome';
 import MainHeader from './Components/MainHeader';
 import ProductDetail from './Pages/ProductDetail';
 function App() {
+  //cambios
   return (
     <div>
       
